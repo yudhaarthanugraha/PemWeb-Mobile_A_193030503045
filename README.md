@@ -21,5 +21,6 @@ Asynchronous JavaScript and XML (AJAX), modul4 membahas ajax dimana akan dibut p
 
 **MODUL 5**
 pada modul5, membahas tentang REACT NATIVE, dimana akan dibahas bagaimana cara mengiinstal react native pada windows dan menggunakannya untuk membuat apk sederhana pada smartphone android
+
 **MODUL 6**
 menjelaskan cara membuat list pada react native yang akan di pakai pada apk android
